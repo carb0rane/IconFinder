@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IconFinder</string>
+    <string name="api_key">Bearer qkfihxIkCwRBQq8KJKCCA1wKb4LqNTJ8Jk7sSeyiKgTUxQTcaHJ3WvQXO00qA6x1</string>
+    <string name="accept_type">application/json</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
